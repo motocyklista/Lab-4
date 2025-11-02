@@ -71,8 +71,10 @@ Wynik:
 3. Na końcu zwraca wynik.
 
 ---
+## 👤 Autor
 
-👤 Autor
-Imię / Pseudonim: Piotr
-Rok: 2025
-Środowisko: Visual Studio Code + Clang
+* **Imię / Pseudonim:** Piotr
+* **Rok:** 2025
+* **Środowisko:** Visual Studio Code + Clang
+
+```
