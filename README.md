@@ -16,7 +16,7 @@ Program napisany w języku C, który sprawdza liczby z zakresu od 50 do 100 podz
 ## Kompilacja
 Aby skompilować program, w terminalu uruchom:
 
-```
+```bash
 clang -Wall liczbyk.c
 ````
 ```
@@ -33,7 +33,7 @@ Jest to normalne w środowisku Visual Studio. Możesz je zignorować lub użyć 
 ## Uruchomienie programu
 Po kompilacji uruchom plik wykonywalny:
 
-```
+```bash
 liczbyk.exe
 ```
 Program poprosi o podanie liczby k i zwróci wynik:
