@@ -4,8 +4,14 @@ int main(void) {
 
 int k;
 
-printf("Podaj liczbe k: ");
+printf("Podaj liczbe k (wieksze od 0): ");
 scanf("%d", &k);
+
+while (k <= 0) {
+    printf("Blad: liczba musi byc wieksza od 0!\n");
+    printf("Podaj liczbe (wieksze od 0):");
+    scanf("%d", &k);
+}
 
 printf("Wynik: \n");
 
