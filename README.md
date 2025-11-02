@@ -53,6 +53,7 @@ Wynik:
 90
 100
 ```
+
 C:\Users\X\Desktop\homework>liczbyk.exe
 Podaj liczbe k: 20
 Wynik:
