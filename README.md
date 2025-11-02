@@ -67,8 +67,9 @@ Wynik:
 ## Działanie programu
 
 1. Program prosi użytkownika o podanie liczby k.
-2. Następnia sprawdza liczby z zakresu od 50 do 100, które spełniają warunek, czyli są podzielne przez k.
-3. Na końcu zwraca wynik.
+2. Program sprawdza czy liczba k jest dodatnia.
+3. Następnia sprawdza liczby z zakresu od 50 do 100, które spełniają warunek, czyli są podzielne przez k.
+4. Na końcu zwraca wynik.
 
 ---
 ## 👤 Autor
